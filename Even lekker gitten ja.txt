@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kut vis 
+=======
+hier is je tweede kaartje
+>>>>>>> f248d64a3bd9978087af80b8b654e748cc074c66
